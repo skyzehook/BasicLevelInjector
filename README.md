@@ -1,2 +1,2 @@
-c++ 20
-multi-byte
+//c++ 20
+//multi-byte
